@@ -17,6 +17,10 @@ html {
   line-height: 1;
 }
 
+body {
+  background-size: cover;
+}
+
 ol, ul {
   list-style: none;
 }
