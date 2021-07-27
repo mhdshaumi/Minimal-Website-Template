@@ -26,6 +26,13 @@ table {
   border-spacing: 0;
 }
 
+.video-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
 caption, th, td {
   text-align: left;
   font-weight: normal;
