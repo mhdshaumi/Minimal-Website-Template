@@ -26,24 +26,6 @@ table {
   border-spacing: 0;
 }
 
-.viewport-header {
-  position: relative;
-  height: 100vh;
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.video-container {
-  object-fit: cover;
-  width: 100vw;
-  height: 100vh;
-  position: fixed;
-  top: 0;
-  left: 0;
-}
-
 caption, th, td {
   text-align: left;
   font-weight: normal;
