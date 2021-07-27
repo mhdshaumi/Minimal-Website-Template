@@ -256,36 +256,36 @@ ion-icon {
 
 @keyframes spin {
   0% {
-    content: "sad";
+    content: "halo";
   }
   10% {
-    content: "depressed";
+    content: "hello";
   }
   20% {
-    content: "a mess";
+    content: "你好";
   }
   30% {
-    content: "happy";
+    content: "안녕하세요";
   }
   40% {
-    content: "a garbage";
+    content: "こんにちは";
   }
   50% {
-    content: "smiling";
+    content: "hola";
   }
   60% {
-    content: "crying";
+    content: "olá";
   }
   70% {
-    content: "laughing";
+    content: "xin chào";
   }
   80% {
-    content: "swearing";
+    content: "नमस्ते";
   }
   90% {
-    content: "in pain";
+    content: "hallo";
   }
   100% {
-    content: "onyx";
+    content: "สวัสดี";
   }
 }
