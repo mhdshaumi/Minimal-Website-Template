@@ -197,12 +197,12 @@ ion-icon {
   text-overflow: ellipsis;
 }
 
-.icon-resume {
-  color: #e95950;
+.icon-spotify {
+  color: #1DB954;
 }
 
-.icon-resume:hover {
-  background: #e95950;
+.icon-spotify:hover {
+  background: #1DB954;
 }
 
 .icon-email {
